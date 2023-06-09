@@ -1,4 +1,5 @@
 # NammaYatri_hackathon
+<b>Main aim</b>:- <ins> booking a cab via just calling at a contact number</ins> , no need of opening their application or write down destination( but, just a simple call).  Can work well for firms like <b>Uber, Ola</b>, etc.
 Submission in namma yatri hackathon, that includes:- <ins>Speech to text to database creation</ins> </br>
 <b>Step1.)</b> Demonstration of voice call via <b><ins>twilio</ins></b> service that saves the voice( for demonstration purpose).</br>
 <b>Step2.)</b> The voice so recorded passed to <b><ins>Whisper</ins></b>( OpenAI's model for speech to text).</br>
